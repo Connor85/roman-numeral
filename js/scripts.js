@@ -1,5 +1,6 @@
 // business logic
-var decimalToRoman = function(inputDecimalNumber){
+var decimalToRoman = function (inputDecimalNumber){
+  inputDecimalNumber = parseInt(inputDecimalNumber);
   return inputDecimalNumber;
 }
 // user logic
