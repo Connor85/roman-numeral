@@ -1,6 +1,6 @@
-# _Leap Year_
+# _Roman Numeral Converter_
 
-#### _Leap Year, August 16, 2018_
+#### _Roman Numeral Converter, August 16, 2018_
 
 #### By _**Conor McCarthy, Brian Nelson**_
 
